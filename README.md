@@ -1,4 +1,4 @@
-# Medical Practice Management Application
+# Medical Clinic Management Application
 
 ## Project Overview
 This project aims to develop a medical practice management application that enables the secretarial staff to input consultation appointments. It is designed to manage the list of users of the center (with their titles, full names, addresses, birth dates and places, and social security numbers) as well as the list of doctors (with their titles, last names, and first names). Each user can have a referring doctor from the center. The secretariat should be able to input appointments by selecting the user and the doctor from lists and entering the date, time, and duration of the consultation (defaulted to 30 minutes).
